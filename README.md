@@ -1,4 +1,4 @@
-This is a very basic next.js note taking app
+This is a very basic next.js note taking app. Make sure to run `./pocketbase serve` before starting up the development server
 
 ## Getting Started
 
